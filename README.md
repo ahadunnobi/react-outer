@@ -1,9 +1,9 @@
 
-# Grocery Shop
+# React-outer
 
 ## Live Site Link
 
-Click here to go live Website: https://grocery-shop-ahad.netlify.app/
+Click here to go live Website: https://reactouter.netlify.app/
 
 
 
@@ -18,13 +18,13 @@ The grocery shop website is a user-friendly online store that offers a convenien
 Clone the project
 
 ```bash
-  git clone https://github.com/ahadunnobi/grocery-shop
+  git clone https://reactouter.netlify.app/
 ```
 
 Go to the project directory
 
 ```bash
-  cd grocery-shop
+  cd React-outer
 ```
 
 Install dependencies
